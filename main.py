@@ -1,7 +1,7 @@
 """
 HipMonsters.com 2024
 See more at www.HipMonsters.com
-This code is for a RaspberryPi and sends random commands to a robots.
+This code is for a Raspberry Pi and sends random commands to a robot.
 Set up two motors:
 pins: 17 & 22 Right motors
 pins: 24 & 23 Left motors
